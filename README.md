@@ -23,13 +23,16 @@ This system provides a complete, automated machine learning workflow designed fo
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+<img width="297" height="327" alt="3abb5e30aa46893ac77fcc1606be35d4" src="https://github.com/user-attachments/assets/4d6201c4-49d2-405a-8fe8-40a47395914c" />
+
 
 ### Data Input & Configuration
-![Data Input](screenshots/data_input.png)
+<img width="974" height="485" alt="056ae911d1f867cbaf61b83309521157" src="https://github.com/user-attachments/assets/d825d6bd-4019-4c57-98f6-b149531dfe37" />
+
 
 ### Run Analysis — Live Log
-![Run Analysis](screenshots/run_analysis.png)
+<img width="624" height="277" alt="219f5d3220ffa79d2393ec9a826f8e71" src="https://github.com/user-attachments/assets/4d8c50de-9711-4578-9065-6cd826d34672" />
+
 
 ---
 
